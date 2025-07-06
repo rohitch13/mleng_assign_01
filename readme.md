@@ -15,6 +15,6 @@ This project uses a pre-trained SVM classifier and sentence embeddings from a tr
 
 ## Usage Instructions
 
-### 1. Clone the Repository
+### 1. How to run
 ```bash
 python score_headlines.py <input_file.txt> <source_name>
